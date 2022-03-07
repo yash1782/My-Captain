@@ -13,5 +13,5 @@ print("The area of the circle with radius {} is: ".format(rad),Area)
 import pathlib
   
 # function to return the file extension
-file_extension = pathlib.Path('Area_Of_Circle.py').suffix
+file_extension = pathlib.Path('abc.py').suffix
 print("File Extension: ", file_extension)  
